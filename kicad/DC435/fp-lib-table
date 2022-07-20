@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name minibadge_kicad)(type KiCad)(uri /Users/kevinwomack/minibadge/minibadge/KiCAD/minibadge_kicad.pretty)(options "")(descr ""))
+  (lib (name graphics)(type KiCad)(uri /Users/kevinwomack/Documents/CVE/graphics.pretty)(options "")(descr ""))
+  (lib (name highway)(type KiCad)(uri ${KIPRJMOD}/graphics.pretty)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri /Users/kevinwomack/digi-key/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+)
